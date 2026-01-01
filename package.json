@@ -1,7 +1,7 @@
 {
   "name": "kebab-case",
   "version": "1.0.0",
-  "description": "The delicious node.js file 🥙🔥",
+  "description": "so spicy kebab 🥙🔥",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -11,6 +11,6 @@
   "author": "You, the Kebab Legend",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^5.2.1"
   }
 }
