@@ -14,7 +14,7 @@ Right now, it's a starter skewer—add your meat (code) as you go!
 ## Quick Start (Don't Burn It!)
 
 ```bash
-git clone https://github.com/YOURUSERNAME/kebab-case.git
+git clone https://github.com/tacwreck/kebab-case.git
 cd kebab-case
 npm init -y  # Or just add your package.json goodies
 node index.js  # Taste the spice!
