@@ -1,15 +1,16 @@
 {
   "name": "kebab-case",
   "version": "1.0.0",
-  "description": "A delicious Node.js starter",
-  "main": "index.js",
+  "description": "The delicious node.js file 🥙🔥",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"No tests yet, but we're grilling some soon! 🌶️\" && exit 0",
-    "lint": "echo 'Linting... looks spicy!'",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"No real tests yet, but the kebabs are passing! 🌶️\" && exit 0",
+    "lint": "echo \"Linting... extra spicy!\" && exit 0"
   },
-  "author": "You, the Kebab Master",
-  "license": "MIT"
+  "author": "You, the Kebab Legend",
+  "license": "MIT",
   "dependencies": {
-    "express": "^5.1.2"
+    "express": "^4.19.2"
+  }
 }
