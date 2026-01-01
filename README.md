@@ -9,11 +9,6 @@ Like a perfect kebab: layered, flavorful, and impossible to put down.
 
 ## What's Cooking?
 
-This is a fresh Node.js project template with:
-- Clean `.gitignore` (no junk files)
-- GitHub Actions for automation (your code gets tested before it burns)
-- Professional setup (but with puns, because boring repos are overcooked)
-
 Right now, it's a starter skewer—add your meat (code) as you go!
 
 ## Quick Start (Don't Burn It!)
