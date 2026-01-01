@@ -4,7 +4,8 @@
   "description": "A delicious Node.js starter",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests yet, but we're grilling some soon! 🌶️\" && exit 0",
+    "lint": "echo 'Linting... looks spicy!'"
   },
   "author": "You, the Kebab Master",
   "license": "MIT"
