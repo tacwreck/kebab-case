@@ -9,7 +9,7 @@
     "start": "node server.js"
   },
   "author": "You, the Kebab Master",
-  "license": "MIT"
+  "license": "MIT",
   "dependencies": {
     "express": "^5.1.2"
 }
