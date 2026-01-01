@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests yet, but we're grilling some soon! 🌶️\" && exit 0",
-    "lint": "echo 'Linting... looks spicy!'"
+    "lint": "echo 'Linting... looks spicy!'",
     "start": "node server.js"
   },
   "author": "You, the Kebab Master",
